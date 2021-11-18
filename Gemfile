@@ -8,7 +8,7 @@ gem 'puma'
 gem 'rails', '5.2.3'
 gem 'redis'
 gem 'spree', '~> 3.7'
-gem 'spree_auth_devise', '~> 3.5'
+gem 'spree_auth_devise', '~> 4.0'
 gem 'spree_gateway', '~> 3.4'
 
 gem 'autoprefixer-rails'
